@@ -1,6 +1,4 @@
-# Chapter: 6 (React)
-
-admin account
+# admin account
 
 - email: admin@gmail.com
 - password: admin
